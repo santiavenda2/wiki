@@ -74,6 +74,8 @@ Mentores Disponibles
 
 * Fisa (JuanFisanotti_) (django y web, python en general, inteligencia artificial, vim)
 
+* DavidLitvak_ (python, web en general, REST, vim)
+
 
 Disponibles como mentores de charlas
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -90,12 +92,15 @@ Disponibles como mentores de charlas
 
 * MarianoGuerra_
 
+* DavidLitvak_
+
 (seguro me olvido de alguno)
 
 
 Mentados buscando mentores
 --------------------------
 
+* Bryan Velasco (brygevel_): Python enfocado a videojuegos.
 
 * `Mauricio José Tobares`_
 
@@ -127,6 +132,8 @@ Mentados buscando mentores
 
 * Julian Silva (Python, Django,HTML5/CSS3)
 
+* Ana María Jalca (amjalca_): Python, Inteligencia Artificial y Web.
+
 
 Adopciones en curso
 -------------------
@@ -136,9 +143,7 @@ Adopciones en curso
 
 * EzequielMarquez_ -> HoracioDuran_ (web)
 
-* Jonathan Scherz -> `David Litvak`_ (Django, TDD, vim)
-
-* Catriel López, Marco Moresi, José de Jesus Marquez Rangel, Rommel Augusto Gutierrez Roa -> Fisa 
+* JuanFisanotti_ -> Ana Maria Jalca Montano (IA)
 
 
 Mentores Buscados
@@ -160,9 +165,7 @@ Adopciones Finalizadas
 
   * Hernan Lozano: muy buena experiencia!
 
-  * Emanuel Toro: prácticamente no hubo contacto. Voy a re-contactar solo por las dudas.
-
-  * Jean Jacques: prácticamente no hubo contacto. Voy a re-contactar solo por las dudas.
+  * Emanuel Toro, Jean Jacques, Catriel López, Marco Moresi, José de Jesus Marquez Rangel, Rommel Augusto Gutierrez Roa: hubo contacto, pero más esporádico, con consultas puntuales más que nada. No hubo una especie de "cierre" formal de la adopción, pero no estamos teniendo contacto habitual.
 
 * Mariano Guerra
 
@@ -171,6 +174,8 @@ Adopciones Finalizadas
   * `Diego Ahumada`_ perdida de contacto
 
 * MartinAlderete_ - Ochoa Gerardo Fidel, perdida de contacto.
+
+* DavidLitvak_ - Jonathan Scherz, perdida de contacto.
 
 .. ############################################################################
 

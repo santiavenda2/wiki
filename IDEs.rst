@@ -84,6 +84,11 @@ Editra es un editor de texto multiplataforma con una implementación que se cent
    - multiplataforma (en el trabajo hay windows :( ) y portable (te
    llevas la carpeta y listo, con configuracion y todo si pones adentro
    la .Editra)
+   
+   fisa actualiza su opinión en 2016:
+   
+   Hace rato que ya no lo uso, y el último release fue del 2013, así que no lo recomendaría más.
+   (por mi cuenta ahora uso mucho vim, y recomiendo sublime text o ninja-ide para principiantes)
 
 http://editra.org/
 
@@ -134,6 +139,8 @@ Vim
 Vim es un editor de texto altamente configurable que permite editar texto de manera eficiente. Es una versión mejorada del editor de texto vi, distribuido con casi todos los sistemas UNIX.
 
 http://www.vim.org
+
+Una **configuración** para vim orientada a python y fácil de instalar es esta (mantenida por fisa, de pyar): http://fisadev.github.io/fisa-vim-config
 
 Emacs
 ~~~~~

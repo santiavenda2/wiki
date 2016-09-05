@@ -16,12 +16,12 @@ Configuracion del entorno python
 Crear un entorno virtual y un esqueleto de proyecto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Recetario/CreandoUnNuevoProyectoPython`_: Receta para crear un entorno de trabajo y un esqueleto minimo para un nuevo proyecto Python
+`Creando un nuevo proyecto python <Recetario/CreandoUnNuevoProyectoPython>`_: Receta para crear un entorno de trabajo y un esqueleto minimo para un nuevo proyecto Python
 
 Mejorando el interprete python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Autocompletado en consola interactiva`_: tip sobre como agregar autocompleción con tab en la consola interactiva imitando el comportamiento ipython.
+`Autocompletado en consola interactiva <Recetario/AutocomplecionEnConsolaInteractiva>`_: tip sobre como agregar autocompleción con tab en la consola interactiva imitando el comportamiento ipython.
 
 Estructuras de datos
 --------------------
